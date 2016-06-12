@@ -3,7 +3,7 @@ Prior instructions:
 * The database used is MongoDB.
 * Apache Tomcat is used to simulate the application. 
 * Java/J2EE must be installed on your machine. 
-* Contact me <sarathchandra.mail2me@gmail.com> for help if needed. 
+* Contact me <prajdheeraj@gmail.com> for help if needed. 
 
 
 Instructions: 
@@ -25,14 +25,11 @@ Instructions:
    Password: password
 
 7. The login ID's for the user are: 
-   Username: sarath
+   Username: prajdheeraj
    Password: password
-   You can create your new user name and password though. 
 
-8. The user can also create new user and password.  
+8. All Users can Either Sign in or Signup by entering an unique username and password.  
 
 9. All the other instructions have been given in the output.pdf. 
 
-10. Navigation has also been friendly. 
-
-11. The total no. lines of code has been shown in the screen shot with file name "linesOfCode"
+10. The lines of code is in the screen shot with file name "linesOfCode"
